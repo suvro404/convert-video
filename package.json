@@ -1,0 +1,35 @@
+{
+  "name": "convert-video",
+  "version": "1.0.0",
+  "description": "A lightweight video conversion tool to convert mp4, avi and mov file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suvro404/convert-video.git"
+  },
+  "keywords": [
+    "video",
+    "converter",
+    "mp4",
+    "avi",
+    "mov",
+    "mp4 to avi",
+    "mp4 to mov",
+    "avi to mp4",
+    "avi to mov",
+    "mov to mp4",
+    "mov to avi",
+    "conversion",
+    "convert"
+  ],
+  "author": "Suvro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/suvro404/convert-video/issues"
+  },
+  "homepage": "https://github.com/suvro404/convert-video#readme"
+}
